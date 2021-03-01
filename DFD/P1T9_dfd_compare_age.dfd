@@ -1,0 +1,87 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+121
+"SOFTCOMPARE
+MAKER: Nicolás Andrés Ramírez Calderón
+This software compares the age of 2 perople using their birth year"
+4
+1
+37
+"Please type the birth year number 1"
+5
+1
+14
+v_birth_year_1
+7
+0
+1
+19
+v_birth_year_1>2021
+4
+1
+37
+"Please type the birth year number 2"
+5
+1
+14
+v_birth_year_2
+7
+0
+1
+19
+v_birth_year_2>2021
+6
+2
+7
+v_age_1
+19
+2021-v_birth_year_1
+7
+v_age_2
+19
+2021-v_birth_year_2
+7
+0
+1
+15
+v_age_1=v_age_2
+7
+0
+1
+15
+v_age_1>v_age_2
+4
+1
+125
+"The person numer 2 is older than the person number 1 because their ages are " , v_age_2 , " and " , v_age_1 , "respectively"
+13
+4
+1
+125
+"The person numer 1 is older than the person number 2 because their ages are " , v_age_1 , " and " , v_age_2 , "respectively"
+13
+13
+4
+1
+37
+"The age of the 2 people is the same"
+13
+13
+4
+1
+70
+"ERR: the year typed is not valid_please type a year lesser than 2021"
+13
+13
+4
+1
+70
+"ERR: the year typed is not valid_please type a year lesser than 2021"
+13
+1

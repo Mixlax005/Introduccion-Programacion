@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+127
+"PAYSOFT_V1.0 MAKER:Nicolás Andrés Ramírez Calderón_This software calculates your bill acording to the princes of the products"
+4
+1
+35
+"Please type the products´s prices"
+5
+1
+14
+P1, P2, P3, P4
+7
+0
+1
+40
+P1 <= 0 OR P2 <= 0 OR P3 <= 0 OR P4 <= 0
+6
+3
+6
+SUMPRO
+11
+P1+P2+P3+P4
+5
+IVA19
+11
+SUMPRO*0.19
+5
+TOTAL
+12
+SUMPRO+IVA19
+4
+1
+105
+"The gross value is: $" , SUMPRO , " the IVA tax is value is: $" , IVA19 , " and the total is: $" , TOTAL
+13
+4
+1
+50
+"ERR: the products´s prices are 0 or less than it"
+13
+1

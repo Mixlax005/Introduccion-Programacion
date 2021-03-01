@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+111
+"AGESOFT_V1.0
+MAKER: Nicolás Andrés Ramírez Calderón
+This software calculates your age using your birth year"
+4
+1
+28
+"please type yor birth year"
+5
+1
+12
+v_year_birth
+7
+0
+1
+17
+v_year_birth>2021
+6
+1
+5
+v_age
+17
+2021-v_year_birth
+4
+1
+23
+"your age is: " , v_age
+13
+4
+1
+70
+"ERR: the year typed is not valid_please type a year lesser than 2021"
+13
+1

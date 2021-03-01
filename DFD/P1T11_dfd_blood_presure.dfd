@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+145
+"BLOODPRESSURESOFT_V1.0_MAKER: Nicolás Andrés Ramírez Claderón_ This software tells your blood pressure condition according to the data you type"
+4
+1
+96
+"Please register your sistolic blood pressure's value and your diastolic blood pressure's value"
+5
+1
+8
+BPS, BPD
+7
+0
+1
+17
+BPD<50 OR BPS>180
+7
+0
+1
+19
+BPD<=60 and BPS<=90
+7
+0
+1
+20
+BPD<=80 and BPS<=120
+7
+0
+1
+19
+BPD<=89 and BPS<139
+4
+1
+25
+"You suffer hypertension"
+13
+4
+1
+43
+"You have a prehypertensive blood pressure"
+13
+13
+4
+1
+34
+"You have a normal blood pressure"
+13
+13
+4
+1
+24
+"You suffer hipotension"
+13
+13
+4
+1
+135
+"ERR: Wrong data_please type a valid numer_sistolic blood pressure nor higher than 180 and diastolic blood pressure nor lesser than 50"
+13
+1
