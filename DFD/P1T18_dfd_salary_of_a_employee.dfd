@@ -42,8 +42,8 @@ v_total
 (v_salary/30)*v_days_worked
 4
 1
-33
-"The total salary is: " , v_total
+34
+"The total salary is: $" , v_total
 13
 4
 1

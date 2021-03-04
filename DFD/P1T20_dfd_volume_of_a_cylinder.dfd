@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+139
+"CYLINDERVOLUMESOFT_MAKER:Nicolás Andrés Ramírez Calderón_this software calculates the volume of a cylinder knowing it´s radius and height"
+4
+1
+40
+"please type the radius of the cylinder"
+5
+1
+8
+v_radius
+7
+0
+1
+10
+v_radius<0
+4
+1
+40
+"please type the height of the cylinder"
+5
+1
+8
+v_height
+7
+0
+1
+10
+v_height<0
+6
+1
+8
+v_volume
+34
+3.1415926535*(v_radius^2)*v_height
+4
+1
+60
+"the volume of the cylinder is: " , v_volume , " cube units"
+13
+4
+1
+61
+"ERR:invalid number typed_please type a number higher than 0"
+13
+13
+4
+1
+61
+"ERR:invalid number typed_please type a number higher than 0"
+13
+1
