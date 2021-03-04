@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+187
+"SALARYOFANEMPLOYEESOFT_MAKER:Nicolás Andrés Ramírez Calderón_This software calculates the salary of an employee knowing the mounthly salary hired and the worked days number in the month"
+4
+1
+49
+"please type the mounthly salary of the employee"
+5
+1
+8
+v_salary
+7
+0
+1
+10
+v_salary<0
+4
+1
+36
+"pleasy type the worked days number"
+5
+1
+13
+v_days_worked
+7
+0
+1
+35
+v_days_worked<0 or v_days_worked>30
+6
+1
+7
+v_total
+27
+(v_salary/30)*v_days_worked
+4
+1
+33
+"The total salary is: " , v_total
+13
+4
+1
+65
+"ERR: invalid number typed_please type a number between 1 and 30"
+13
+13
+4
+1
+62
+"ERR: invalid number typed_please type a number higher than 0"
+13
+1

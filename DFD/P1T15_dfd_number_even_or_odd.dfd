@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+199
+"NUMBEREVENORODDSOFT_MAKER:Nicolás Andrés Ramírez Calderón_this software tells you if the entire number you type is even or odd_ if you don´t type a entire number the programm won´t work sucsesfully"
+4
+1
+29
+"please type a entire number"
+5
+1
+8
+v_number
+7
+0
+1
+10
+v_number=0
+6
+1
+9
+v_residue
+14
+v_number MOD 2
+7
+0
+1
+11
+v_residue=0
+4
+1
+25
+"The number typed is odd"
+13
+4
+1
+26
+"The number typed is even"
+13
+13
+4
+1
+50
+"The number typed is 0_it is neither even nor odd"
+13
+1

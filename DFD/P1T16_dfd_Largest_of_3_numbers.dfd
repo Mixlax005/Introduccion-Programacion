@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+131
+"LARGESTOF3NUMBERSSOTF_MAKER:Nicolás Andrés Ramírez Calderón_This software tells you the greater number between 3 numbers you type"
+4
+1
+27
+"Please type the 3 numbers"
+5
+1
+19
+v_n1 , v_n2 , v_n3 
+7
+0
+1
+23
+v_n1=v_n2 and v_n1=v_n3
+7
+0
+1
+23
+v_n1>v_n2 and v_n1>v_n3
+7
+0
+1
+23
+v_n2>v_n1 and v_n2>v_n3
+4
+1
+31
+"The greater number is " , v_n3
+13
+4
+1
+31
+"The greater number is " , v_n2
+13
+13
+4
+1
+31
+"The greater number is " , v_n1
+13
+13
+4
+1
+31
+"The 3 numbers typed are equal"
+13
+1

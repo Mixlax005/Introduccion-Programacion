@@ -1,0 +1,100 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+129
+"WEEKDAYSOFT_MAKER:Nicolás Andrés Ramírez Calderón_This software tells you the day of the week according to the number you typed"
+4
+1
+24
+"please type the number"
+5
+1
+5
+v_day
+7
+0
+1
+21
+v_day>=1 and v_day<=7
+4
+1
+73
+"ERR: the number typed is not valid_please type a number between 1 and 7"
+13
+7
+0
+1
+7
+v_day=1
+7
+0
+1
+7
+v_day=2
+7
+0
+1
+7
+v_day=3
+7
+0
+1
+7
+v_day=4
+7
+0
+1
+7
+v-day=5
+7
+0
+1
+7
+v_day=6
+4
+1
+49
+"the day according to the number typed is sunday"
+13
+4
+1
+51
+"the day according to the number typed is saturday"
+13
+13
+4
+1
+49
+"the day according to the number typed is friday"
+13
+13
+4
+1
+51
+"the day according to the number typed is thursday"
+13
+13
+4
+1
+52
+"the day according to the number typed is wednesday"
+13
+13
+4
+1
+51
+"the day according to the number typed is thuesday"
+13
+13
+4
+1
+49
+"the day according to the number typed is Monday"
+13
+13
+1
