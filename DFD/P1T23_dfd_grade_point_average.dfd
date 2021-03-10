@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+117
+"COURSEAVERAGESOFT_V1.0_MAKER:Nicolás Andrés Ramírez Calderón_This software calculates the average score of a course"
+4
+1
+50
+"Please type the amount of students of the course"
+5
+1
+16
+v_total_students
+7
+0
+1
+18
+v_total_students<1
+6
+1
+5
+v_sum
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+16
+v_total_students
+1
+1
+1
+4
+1
+62
+"Please type the 3 scores of the " , i , "(st,nd.th) student" 
+5
+1
+28
+v_score1, v_score2, v_score3
+6
+2
+15
+v_student_score
+44
+(v_score1*0.2)+(v_score2*0.3)+(v_score3*0.5)
+5
+v_sum
+21
+v_sum+v_student_score
+10
+6
+1
+16
+v_course_average
+22
+v_sum/v_total_students
+4
+1
+90
+"The average of the course with " , v_total_students , " students is " , v_course_average 
+13
+4
+1
+60
+"ERR:invalid number typed_please type a number 1 or greater"
+13
+1

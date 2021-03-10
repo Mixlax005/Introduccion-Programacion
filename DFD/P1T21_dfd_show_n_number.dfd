@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+94
+"SHOWNNUMBERSOFT_V1.0_MAKER:Nicolás Andrés Ramírez Calderón_This software shows you n numbers"
+4
+1
+62
+"please type the total amount of numbers ypu want thah appear"
+5
+1
+15
+v_total_numbers
+7
+0
+1
+17
+v_total_numbers<1
+8
+1
+1
+i
+1
+1
+1
+1
+15
+v_total_numbers
+1
+1
+1
+4
+1
+27
+"the number cycle is: " , i
+10
+13
+4
+1
+59
+"ERR:invalid number typed_please type a number 1 or higher"
+13
+1
