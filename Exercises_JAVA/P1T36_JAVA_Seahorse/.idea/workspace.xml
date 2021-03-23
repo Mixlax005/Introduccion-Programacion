@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="785ccdc4-ad00-4e11-9861-ad22e2cf401b" name="Default Changelist" comment="" />
+    <list default="true" id="945f8d5c-a2ee-4be0-b195-ed611e00d2d6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1pqGhDLQuM5pOaIAjRFj1IWIbwI" />
+  <component name="ProjectId" id="1qACMcddBuyeQ6a6FVnp0yhYAlS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -72,15 +72,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../P1T35_JAVA_input_number" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="usta.fis.Main" />
-      <module name="P1T34_JAVA_hello_world" />
+      <module name="P1T36_JAVA_Seahorse" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -97,11 +94,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="785ccdc4-ad00-4e11-9861-ad22e2cf401b" name="Default Changelist" comment="" />
-      <created>1615903325818</created>
+      <changelist id="945f8d5c-a2ee-4be0-b195-ed611e00d2d6" name="Default Changelist" comment="" />
+      <created>1616512962872</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1615903325818</updated>
+      <updated>1616512962872</updated>
     </task>
     <servers />
   </component>

@@ -9,6 +9,6 @@ public class Main {
 	System.out.println("Softhelloworld V1.0");
 	System.out.println("MAKER:Nicolás Andrés Ramírez Calderón");
 	System.out.println("-------------------------------");
-	System.out.println("Hello world and me");
+	System.out.println("Hello world");
     }
 }
