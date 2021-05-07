@@ -9,7 +9,6 @@ public class Main {
         int i, j, mayor, menor;
         int filaMayor, filaMenor, colMayor, colMenor;
         int[][] A = new int[FILAS][COLUMNAS]; //Se crea una matriz de 5 filas y 4 columnas
-
         //Se introducen por teclado los valores de la matriz
         System.out.println("Lectura de elementos de la matriz: ");
         for (i = 0; i < FILAS; i++) {
@@ -18,7 +17,6 @@ public class Main {
                 A[i][j] = keyboard.nextInt();
             }
         }
-
         //Mostrar por pantalla los valores que contiene la matriz
         System.out.println("valores introducidos:");
         for (i = 0; i < A.length; i++) {
